@@ -1,0 +1,28 @@
+{
+  "name": "Academia de Modelaje Aracely Salinas",
+  "short_name": "Aracely Salinas",
+  "description": "Formación profesional en modelaje, pasarela y autoestima para niñas y jóvenes.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0E0E10",
+  "theme_color": "#FF00C7",
+  "orientation": "portrait",
+  "lang": "es-BO",
+  "icons": [
+    {
+      "src": "/favicon-aracely.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
