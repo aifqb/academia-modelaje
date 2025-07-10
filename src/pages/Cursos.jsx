@@ -9,7 +9,7 @@ const Cursos = () => {
       description: 'Pasarela, postura, fotografía, autoestima y mucho más para niñas en formación.',
       to: '/cursos/10-14',
     },
-    // Puedes agregar más cursos aquí fácilmentes
+    // Puedes agregar más cursos aquí fácilmentesww
   ];
 
   return (
